@@ -21,7 +21,8 @@ namespace custom {
                     c 5 5 5 c 4 c 5 5 5 c 4 c 5 c .
                     c 5 5 5 5 c 5 5 5 5 c 4 c 5 c .
                     . c c c c c c c c c . . c c c .
-                `, randint(0, scene.screenHeight()), 0)
+                `, -70, 0)
+            enemySprite.y = randint(0, scene.screenHeight())
         }
     }
 
