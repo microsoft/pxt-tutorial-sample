@@ -10,6 +10,8 @@
         "README.md",
         "first-tutorial.md",
         "second-tutorial.md",
+		"_locales/zh-CN/first-tutorial.md",
+		"_locales/de-DE/first-tutorial.md",
         "custom.ts"
     ],
     "testFiles": [
