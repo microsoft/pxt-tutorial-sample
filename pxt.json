@@ -5,9 +5,11 @@
         "device": "*"
     },
     "files": [
-        "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "first-tutorial.md",
+        "second-tutorial.md",
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
