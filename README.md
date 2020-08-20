@@ -12,7 +12,7 @@ This will make an empty MakeCode repository in your Github account.
 
 ## Tutorial Files
 
-By default, the content from the README file is loaded as a tutorial. You can view it using this URL: 
+By default, the content from the README file is loaded as a tutorial. You can view it using this URL:
 
 > [http://arcade.makecode.com/#tutorial:https://github.com/shakao/pxt-tutorial-sample](http://arcade.makecode.com/#tutorial:https://github.com/shakao/pxt-tutorial-sample)
 
@@ -32,7 +32,7 @@ A repository containing a tutorial may also contain custom blocks for use in the
 
 ## Custom Localization
 
-Localized versions of the tutorial can also be added to the repository, under a `_locales` folder. This folder contains a list of sub-directories with the language code (eg. zh-CN, de-DE). The localized tutorial should have the same file name as the base tutorial. These must also be added to the list of files in `pxt.json`. To view a localized version of the tutorial, add `?lang=[language-code]` to the URL, as follows: 
+Localized versions of the tutorial can also be added to the repository, under a `_locales` folder. This folder contains a list of sub-directories with the correctly capitalized language code (eg. zh-CN, de-DE). The localized tutorial should have the same file name as the base tutorial. To view a localized version of the tutorial, add `?lang=[language-code]` to the URL, as follows:
 
 > [http://arcade.makecode.com?lang=zh-CN#tutorial:https://github.com/shakao/pxt-tutorial-sample/first-tutorial](http://arcade.makecode.com?lang=zh-CN#tutorial:https://github.com/shakao/pxt-tutorial-sample/first-tutorial)
 
