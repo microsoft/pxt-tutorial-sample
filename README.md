@@ -12,10 +12,13 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+# Sample MakeCode Tutorial
 
- # Sample Tutorial
+This repository is an example of how to host a MakeCode tutorial on Github. This particular tutorial is for MakeCode Arcade, but this is fully supported for micro:bit and Minecraft as well.
 
-This repository is an example of how to host a MakeCode tutorial on Github. This particular tutorial is for MakeCode Arcade, but this is fully supported for micro:bit and Minecraft as well. To create your tutorial repository:
+## Creating a Tutorial
+
+To create your tutorial repository:
 
 * Open [https://arcade.makecode.com/](https://arcade.makecode.com/) (or makecode.microbit.org, minecraft.makecode.com)
 * Click on **New Project**
